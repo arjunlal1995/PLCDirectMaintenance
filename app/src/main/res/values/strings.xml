@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PLC Direct Maintenance</string>
+    <string name="action_ack">Acknowledge</string>
+    <string name="action_dispatch">Dispatch Tech</string>
+    <string name="action_snooze">Snooze 10m</string>
+    <string name="channel_critical">PLC Critical Alarms</string>
+    <string name="channel_warning">PLC High Warnings</string>
+    <string name="schneider_usb_driver">Schneider USB-B Driver</string>
+    <string name="schneider_rj45_driver">Schneider RJ-45 Modbus TCP</string>
+</resources>
